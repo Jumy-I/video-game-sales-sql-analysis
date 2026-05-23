@@ -1,4 +1,4 @@
-##🎮 Video Game Sales & Ratings Analysis using SQL
+## 🎮 Video Game Sales & Ratings Analysis using SQL
 <img width="1167" height="748" alt="Image" src="https://github.com/user-attachments/assets/fd7d0843-80aa-48cd-94b8-5c14b6164abf" />
 
 ## Project Overview
