@@ -1,4 +1,6 @@
 ##🎮 Video Game Sales & Ratings Analysis using SQL
+<img width="1167" height="748" alt="Image" src="https://github.com/user-attachments/assets/fd7d0843-80aa-48cd-94b8-5c14b6164abf" />
+
 ## Project Overview
 
 The global video game industry is a multi-billion-dollar market, projected to exceed $300 billion by 2027. With such significant commercial value, game 
@@ -102,20 +104,27 @@ Identified years where both critics and users highly rated released games and ca
 INNER JOIN
 Conditional filtering
 Derived calculations
-📸 Project Screenshots
+
+## Project Screenshots
 Database Schema
-![Database Schema](screenshots/database_schema.png)
+<img width="1477" height="729" alt="Image" src="https://github.com/user-attachments/assets/78012b3b-0c99-4949-99a0-8e631113e5a7" />
+
 Top Selling Games Query
-![Top Selling Games](screenshots/best_selling_games.png)
+<img width="1195" height="639" alt="Image" src="https://github.com/user-attachments/assets/3dfb7c66-78b7-4e07-a4a2-9affb820a407" />
+
 Critic Score Analysis
-![Critic Score Analysis](screenshots/critic_score_analysis.png)
+<img width="1188" height="634" alt="Image" src="https://github.com/user-attachments/assets/b17ab046-23b0-4783-a223-a52e29b606d6" />
+
 Golden Years Analysis
-![Golden Years Analysis](screenshots/golden_years_analysis.png)
+<img width="1133" height="621" alt="Image" src="https://github.com/user-attachments/assets/890ba679-dec4-4b46-aa3f-4da2592faf84" />
 
  # Key Insights
 Nintendo titles dominated the list of best-selling games.
+
 Certain release years consistently achieved stronger critic ratings than others.
+
 Some years showed strong alignment between critic and user opinions, suggesting periods of exceptionally high game quality.
+
 The project demonstrates how SQL can be used to analyze trends, compare metrics, and generate business insights from relational datasets.
 
 # Tools Used
@@ -128,9 +137,6 @@ DataCamp Project Link:
 https://www.datacamp.com/datalab/w/27fe020a-300c-4f90-85a3-6167c854c33e
 
 # Author
-Olajumoke Ibiwumi Ajani
-LinkedIn: https://www.linkedin.com/in/ajani-olajumoke-ibiwumi-3b282b25a
-GitHub: https://github.com/Jumy-I
 Olajumoke Ibiwumi Ajani
 LinkedIn: https://www.linkedin.com/in/ajani-olajumoke-ibiwumi-3b282b25a
 GitHub: https://github.com/Jumy-I
